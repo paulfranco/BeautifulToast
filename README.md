@@ -1,7 +1,7 @@
 # BeautifulToast
 Simple Custom Android library that creates Beautiful Looking Toasts
 
-**1. Step 1. Add the JitPack repository to your build file**
+**Step 1. Add the JitPack repository to your build file**
 
 allprojects {
 		repositories {
