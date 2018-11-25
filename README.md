@@ -20,6 +20,19 @@ dependencies {
 
 [![](https://jitpack.io/v/paulfranco/BeautifulToast.svg)](https://jitpack.io/#paulfranco/BeautifulToast)
 
+## Example
+
+<Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Info Toast"
+        android:onClick="infoToast"/>
+
+public void successToast(View view) {
+
+	new SuccessToast(this, "Success Toast!!");
+}
+	
 ## ScreenShots
 
 ![successtoast](https://user-images.githubusercontent.com/29502126/48974274-cfb5c180-f008-11e8-987d-c572b1efa9ad.png)
