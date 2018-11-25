@@ -16,7 +16,7 @@ public class FailedToast extends LinearLayout {
 
     private void show(Context context, String message) {
 
-        View view = LayoutInflater.from(context).inflate(R.layout.success_toast, this, true);
+        View view = LayoutInflater.from(context).inflate(R.layout.failed_toast, this, true);
 
         TextView textView = (TextView) findViewById(R.id.text);
         textView.setText(message);
