@@ -32,3 +32,7 @@ public void successToast(View view) {
 ![successtoast](https://user-images.githubusercontent.com/29502126/48974274-cfb5c180-f008-11e8-987d-c572b1efa9ad.png)
 ![informationtoast](https://user-images.githubusercontent.com/29502126/48974275-d3e1df00-f008-11e8-871a-85d97ba322b4.png)
 ![failed toast](https://user-images.githubusercontent.com/29502126/48974276-d6dccf80-f008-11e8-8f57-8541bf280164.png)
+
+## Video
+
+https://youtu.be/k2FxKe7YfAQ
