@@ -13,7 +13,7 @@ allprojects {
 **Step 2. Add the dependency**
 
 dependencies {
-	        implementation 'com.github.paulfranco:BeautifulToast:0.1.0'
+	        implementation 'com.github.paulfranco:BeautifulToast:0.1.1'
 	}
 
 [![](https://jitpack.io/v/paulfranco/BeautifulToast.svg)](https://jitpack.io/#paulfranco/BeautifulToast)
