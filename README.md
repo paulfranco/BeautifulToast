@@ -22,12 +22,6 @@ dependencies {
 
 ## Example
 
-<Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Info Toast"
-        android:onClick="infoToast"/>
-
 public void successToast(View view) {
 
 	new SuccessToast(this, "Success Toast!!");
