@@ -19,3 +19,9 @@ dependencies {
 ![how to](https://user-images.githubusercontent.com/29502126/48974268-90877080-f008-11e8-99b1-194434821068.png)
 
 [![](https://jitpack.io/v/paulfranco/BeautifulToast.svg)](https://jitpack.io/#paulfranco/BeautifulToast)
+
+## ScreenShots
+
+![successtoast](https://user-images.githubusercontent.com/29502126/48974274-cfb5c180-f008-11e8-987d-c572b1efa9ad.png)
+![informationtoast](https://user-images.githubusercontent.com/29502126/48974275-d3e1df00-f008-11e8-871a-85d97ba322b4.png)
+![failed toast](https://user-images.githubusercontent.com/29502126/48974276-d6dccf80-f008-11e8-8f57-8541bf280164.png)
