@@ -16,4 +16,4 @@ dependencies {
 	        implementation 'com.github.paulfranco:BeautifulToast:0.1.0'
 	}
 
-![how to](https://user-images.githubusercontent.com/29502126/48974140-4603f500-f004-11e8-8193-e71d922d4dec.png)
+[![](https://jitpack.io/v/paulfranco/BeautifulToast.svg)](https://jitpack.io/#paulfranco/BeautifulToast)
